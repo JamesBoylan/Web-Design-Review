@@ -29,15 +29,16 @@ header {
 h1 {
     text-align: center;
     color: rgb(189, 109, 17);
-    font-size: 45px;
+    font-size: 70px;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: bold;
   }
 
 h2 {
     text-align: center;
+    font-style: bold;
     color: rgb(189, 109, 17);
-    font-size: 45px;
+    font-size: 60px;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: bold;
 }
@@ -53,12 +54,40 @@ p{
   ul{
     text-align: left;
     color: rgb(189, 109, 17);
-    font-size: 20px;
+    font-size: 40px;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: bold;
+    text-align: center;
+    list-style: none;
   }
 
-  #list{
+  
+  .html_img{
+    height: 175px;
+    width: auto;
+  }
+
+  .css_img{
+    height: 200px;
+    width: auto;
+  }
+
+  .github_img{
+    height: 15%;
+    width:auto;
+  }
+
+  .vscode_img{
+    height: 10%;
+    width: auto;
+  }
+
+  .thumb_up{
+    height:95px;
+    width:auto;
+  }
+
+  .list{
     font-size: 29px;
   }
 
@@ -66,6 +95,13 @@ p{
  padding-top: 100px;
   }
 
+  #summary{
+    font-size: 35px;
+  }
+  
+  #webList{
+    text-align: center;
+  }
 
 
 
